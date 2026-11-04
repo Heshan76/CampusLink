@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+outputs/status/
+.agents/mcp_config.json
+submission/CampusLink_Submission/

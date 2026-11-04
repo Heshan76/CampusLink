@@ -1,0 +1,4 @@
+# Python 3.10+ (tested on 3.12). Tkinter ships with the standard Windows installer.
+mcp>=2.3,<3        # MCP Python SDK v2 (MCPServer API) - only needed for the MCP server
+xlsxwriter>=3.2    # Excel workbook + charts
+openpyxl>=3.1      # used only by tests/validation to read the workbook back

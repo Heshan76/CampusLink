@@ -1,0 +1,7 @@
+reference/CampusLink_Proposal.pdf  - the group proposal (read and used for the settings).
+
+STILL MISSING: the original Option F assignment specification (PDF) and any lecturer feedback.
+Put them in this folder. In particular check:
+  * grid shape: proposal says 18 x 6, lecturer reportedly asked for a larger, squarish grid
+  * whether a 2-3 page report or other file is required in the final ZIP
+If anything differs from campuslink_config.json, edit it, re-run `campuslink test` and `campuslink validate-config`.

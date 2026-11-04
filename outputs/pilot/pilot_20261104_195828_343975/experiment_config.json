@@ -1,0 +1,21 @@
+{
+  "project_name": "CampusLink",
+  "grid_width": 18,
+  "grid_height": 6,
+  "node_counts": [
+    10,
+    20,
+    40
+  ],
+  "routing_methods": [
+    "DIRECT",
+    "EPIDEMIC"
+  ],
+  "repetitions": 10,
+  "messages_per_run": 6,
+  "max_steps": 180,
+  "contact_radius": 1,
+  "base_seed": 42,
+  "pilot_base_seed": 900000,
+  "PILOT_ONLY": true
+}
